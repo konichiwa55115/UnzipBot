@@ -1,4 +1,4 @@
 pyrogram==1.2.9
-TgCrypto
-rarfile
-humanize
+TgCrypto==1.2.2
+rarfile==4.0
+humanize==3.3.0
